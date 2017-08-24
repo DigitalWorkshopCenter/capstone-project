@@ -1,5 +1,7 @@
 # capstone-project
 
+Create a WordPress website with:
+
 Brochure style site. Include 5 pages and a blog with 2 articles
 
 customized child theme.  Child theme customization should include CSS (and JS/PHP if applicable)
